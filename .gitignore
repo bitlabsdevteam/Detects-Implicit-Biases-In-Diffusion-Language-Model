@@ -49,6 +49,7 @@ vm_*.ipynb
 
 # --- AI/ML Specific (Large files) ---
 # Ignore weights, models, and large datasets by default
+Dream7/activations/
 *.pth
 *.pt
 *.ckpt
